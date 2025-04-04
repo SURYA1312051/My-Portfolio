@@ -2,7 +2,7 @@
 
 This repository contains the code for my personal portfolio website, showcasing my education, skills, and interests as a Computer Science and Engineering student specializing in Data Science at Vellore Institute of Technology (VIT).
 
-## Overview
+Overview
 
 This is a simple, responsive portfolio website built with HTML and CSS that highlights my academic background, technical skills, and personal interests. The site features a dark theme with an intuitive navigation system.
 
